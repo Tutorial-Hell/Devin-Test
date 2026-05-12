@@ -1,4 +1,5 @@
-name: Automated PR Review TEST EXAMPLE HERE IS SOME NEW TEXT FOR the new git branch here is another change!
+name: Automated PR Review a new pull request!
+!
 
 on:
   pull_request:
